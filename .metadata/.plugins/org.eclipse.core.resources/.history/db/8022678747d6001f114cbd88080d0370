@@ -1,5 +1,0 @@
-package com.atm.Repo;
-
-public interface SubscriptionRepository {
-
-}
