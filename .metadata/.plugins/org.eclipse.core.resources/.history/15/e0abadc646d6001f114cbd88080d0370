@@ -1,0 +1,46 @@
+package com.atm.Service;
+
+import java.time.LocalDate;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.atm.Entity.Subscription;
+import com.atm.Repo.SubscriptionRepository;
+
+@Service
+public class SubscriptionServiceImpl implements SubscriptionService {
+
+	@Override
+	public Subscription createSubscription(Subscription subscription) {
+		
+		return null;
+	}
+
+	@Override
+	public Subscription updateSubscription(Long id, Subscription subscription) {
+		
+		return null;
+	}
+
+	@Override
+	public void deleteSubscription(Long id) {
+		
+		
+	}
+
+	@Override
+	public List<Subscription> getAllSubscriptions() {
+		
+		return null;
+	}
+
+	@Override
+	public Subscription getSubscriptionByKey(String productKey) {
+		
+		return null;
+	}
+
+    
+}

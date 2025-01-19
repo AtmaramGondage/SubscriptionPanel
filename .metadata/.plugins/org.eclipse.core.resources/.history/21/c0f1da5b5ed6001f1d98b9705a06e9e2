@@ -1,0 +1,5 @@
+package com.atm.config;
+
+public class SecurityConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.atm.Service;
+
+public interface SubscriptionService {
+
+}
